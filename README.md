@@ -1,7 +1,3 @@
-# Hi there 👋
-
-I'm **Tran Hieu** ([@Kannoki](https://github.com/Kannoki)).
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/night.svg" />
